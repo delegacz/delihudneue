@@ -1,0 +1,106 @@
+//========================================================================================================================
+
+event FlagOutline
+{
+}
+
+//========================================================================================================================
+
+event HudTournamentSetupPanelOpen
+{
+	Animate HudTournamentSetup						Position	"c-70 -30"							Linear 	0.0 	0.001
+	Animate HudTournamentSetup						Position	"c-70 65"							Spline 	0.001	0.1
+}
+
+event HudTournamentSetupPanelClose
+{
+	Animate HudTournamentSetup						Position	"c-70 65"							Linear 	0.0 	0.001
+	Animate HudTournamentSetup						Position	"c-70 -30"							Spline 	0.001 	0.6
+}
+
+//========================================================================================================================
+
+event HudTournament_ShowTimerDefault
+{
+	Animate	CountdownLabel							ypos		"150"								Linear	0.0		0.0
+	Animate	CountdownLabelShadow					ypos		"150"								Linear	0.0		0.0
+
+	SetVisible CountdownBG							1	0
+	SetVisible CountdownLabel						1	0
+	SetVisible CountdownLabelShadow					1	0
+}
+
+event HudTournament_HideTimer
+{
+	SetVisible CountdownBG							0	0
+	SetVisible CountdownLabel						0	0
+	SetVisible CountdownLabelShadow					0	0
+}
+
+//========================================================================================================================
+
+event HasNotificationsBlink
+{
+}
+
+event HasNotificationsBlinkStop
+{
+}
+
+//========================================================================================================================
+
+event ActiveTimerHighlight
+{
+	Animate TimePanelValue 							FgColor		"255 255 100 255"					Linear 	0.0 	0.0
+}
+
+event ActiveTimerDim
+{
+	Animate TimePanelValue 							FgColor		"White"								Linear 	0.0 	0.0
+}
+
+//========================================================================================================================
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+
+event CompetitiveGame_RestoreChatWindow
+{
+}
+
+event HudTournament_MoveChatWindow
+{
+}
+
+//========================================================================================================================
+
+event RDPositiveScorePulse
+{
+}
+
+event RDNegativeScorePulse
+{
+}
+
+//========================================================================================================================
+
+event TeamStatus_PlayerDead
+{
+}
+
+event TeamStatus_PlayerAlive
+{
+}
+
+//========================================================================================================================
+
+event HudSnapShotReminderIn
+{
+    RunEvent HudHealthDyingPulseStop 				10.0
+    RunEvent HudHealthBonusPulseStop 				10.0
+    RunEvent HudLowAmmoPulseStop 					10.0
+    RunEvent HudMedicChargedStop 					10.0
+}
+
+//========================================================================================================================

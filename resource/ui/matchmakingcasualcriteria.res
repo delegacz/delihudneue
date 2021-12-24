@@ -1,0 +1,1 @@
+#base "../../resource/default/matchmakingcasualcriteria.res"

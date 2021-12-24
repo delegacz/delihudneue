@@ -1,0 +1,14 @@
+//=====================================================================================================================================
+// CUSTOMIZATION INSTRUCTIONS
+//=====================================================================================================================================
+//
+// 1. Pick a category and open his folder [example: Scoreboards]
+// 2. Inside the category pick one of the customizations and open his folder [example: [Scoreboard] Foster's]
+// 3. Copy all the folders found inside [example: resource]
+// 4. Go back to the m0rehud root folder [the folder containing resource, scripts, and info.vdf]
+// 5. Paste the previously copied folders there. When your system asks if you want to replace the files, select YES!
+//
+//=====================================================================================================================================
+// For more in-depth information, check out the dedicated wiki page:
+// https://github.com/Hypnootize/m0rehud/wiki/Customizations
+//=====================================================================================================================================
