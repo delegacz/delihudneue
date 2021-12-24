@@ -18,23 +18,12 @@ Scheme
 			"draw_corner_width"		"0"
 			"draw_corner_height" 	"0"	
 		}
-		HealthBuffBackgroundBorder
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			"color" 				"Health Buff Background"
 
-			"image"					"replay/thumbnails/panels/material_generic"
-			"src_corner_height"		"24"
-			"src_corner_width"		"24"
-			"draw_corner_width"		"0"
-			"draw_corner_height" 	"0"	
-		}
 		BuffedBorder
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color" 				"Health Buff"
+			"color" 				"Health Buff Background"
 			
 			"image"					"replay/thumbnails/panels/material_generic"
 			"src_corner_height"		"24"
@@ -46,18 +35,6 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color" 				"Health Hurt"
-			
-			"image"					"replay/thumbnails/panels/material_generic"
-			"src_corner_height"		"24"
-			"src_corner_width"		"24"
-			"draw_corner_width"		"0"
-			"draw_corner_height" 	"0"	
-		}
-		HurtBorderBackgroundBorder
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
 			"color" 				"Health Hurt Background"
 			
 			"image"					"replay/thumbnails/panels/material_generic"
@@ -66,6 +43,7 @@ Scheme
 			"draw_corner_width"		"0"
 			"draw_corner_height" 	"0"	
 		}
+
 		
 		////////////////////////////////////////////////////////////////////////////////////
 		////////////////////////HEALTH BOX MATERIALS FOR SPECTATOR UI///////////////////////
@@ -294,7 +272,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color" 				"Red"
+			"color" 				"Spec BG"
 			
 			"image"					"replay/thumbnails/panels/material_generic"
 			"src_corner_height"		"32"
@@ -318,7 +296,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color" 				"Blue"
+			"color" 				"Spec BG"
 			
 			"image"					"replay/thumbnails/panels/material_generic"
 			"src_corner_height"		"32"

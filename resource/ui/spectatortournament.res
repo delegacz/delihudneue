@@ -97,7 +97,25 @@
 				"proportionaltoparent"				"1"
 				"pin_to_sibling" 					"PlayerName"
 			}
+			"BoxShadowRed" {
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"BoxShadowRed"
+				"xpos"										"0"
+				"ypos"										"0"
+				"zpos"										"5"
+				"wide"										"32"
+				"tall"	 									"14"
+				"visible"									"1"
+				"enabled"									"1"
+				"paintbackground"							"1"
 			
+				"image"										"../hud/color_panel_brown"
+				"scaleImage"								"1"
+				"teambg_1"									"../hud/color_panel_brown"
+				"teambg_2"									"../hud/color_panel_red"
+				"teambg_3"									"../hud/color_panel_blu"
+				"pin_to_sibling" 							"PlayerName"
+			}
 			"HealthIcon"
 			{
 				"ControlName"						"EditablePanel"

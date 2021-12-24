@@ -58,6 +58,30 @@
 		"enabled"                					"1"
 		"fillcolor"              					"0 0 0 140"
 	}
+	"TargetTeamColorBar"
+	{
+		"ControlName"           					"CTFImagePanel"
+		"fieldName"              					"TargetTeamColorBar"
+		"xpos"                   					"0"
+		"ypos"                   					"-14"
+		"zpos"                   					"-1"
+		"wide"	          		   					"1000"
+		"tall"                   					"1"
+		"visible"                					"1"
+		"enabled"                					"1"
+		"fillcolor"              					"100 100 100 255"
+		"image"										"replay/thumbnails/panels/material_generic"
+		"scaleImage"								"1"
+		"teambg_1"									"replay/thumbnails/panels/material_generic"
+		"teambg_2"									"replay/thumbnails/panels/material_red"
+		"teambg_2_lodef"							"replay/thumbnails/panels/material_red"
+		"teambg_3"									"replay/thumbnails/panels/material_blue"
+		"teambg_3_lodef"							"replay/thumbnails/panels/material_blue"
+		"scaleImage"								"1"			
+		"pin_to_sibling"							"TargetBGshade"
+		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
+	}
 	
 	"TargetNameLabel"
 	{	

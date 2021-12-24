@@ -57,11 +57,9 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"border"    								"HealthBorder"
-		"fgcolor_override"							"160 160 160 255"
 		"paintbackground"							"1"	
 		"alpha"										"255"
 	}
-	
 	"HealthBuff"
 	{
 		"ControlName"								"EditablePanel"

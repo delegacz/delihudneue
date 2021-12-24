@@ -75,36 +75,6 @@
 		"paintbackground"							"1"	
 		"alpha"										"255"
 	}
-	"HealthBGBuff"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthBG"
-		"xpos"										"-3"
-		"ypos"										"15"
-		"zpos"										"5"
-		"wide"										"31"
-		"tall"	 									"14"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"    								"HealthBuffBackgroundBorder"
-		"paintbackground"							"1"	
-		"alpha"										"255"
-	}
-	"HealthBGHurt"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthBG"
-		"xpos"										"-3"
-		"ypos"										"15"
-		"zpos"										"5"
-		"wide"										"31"
-		"tall"	 									"14"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"    								"HurtBorderBackgroundBorder"
-		"paintbackground"							"1"	
-		"alpha"										"255"
-	}
 	"HealthBuff"
 	{
 		"ControlName"								"EditablePanel"
@@ -143,10 +113,10 @@
 		"pin_to_sibling" 							"HealthBG"
 	}
 	
-	"PlayerStatusHealthValueTargetValue"
+	"PlayerStatusHealthValueTarget"
 	{
 		"ControlName"								"Label"
-		"fieldName"									"PlayerStatusHealthValueTargetValue"
+		"fieldName"									"PlayerStatusHealthValueTarget"
 		"xpos"										"-6"
 		"ypos"										"13"
 		"zpos"										"21"
