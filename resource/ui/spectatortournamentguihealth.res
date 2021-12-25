@@ -33,8 +33,8 @@
 	{
 		"ControlName"								"CexLabel"
 		"fieldName"									"PlayerStatusHealthValueSpecgui"
-		"xpos"			   							"6"
-		"ypos"			    						"2"
+		"xpos"			   							"5"
+		"ypos"			    						"4"
 		"zpos"			    						"5"
 		"wide"			    						"18"
 		"tall"			    						"20"
@@ -53,7 +53,7 @@
 		"ypos"										"3"
 		"zpos"										"5"
 		"wide"										"30"
-		"tall"	 									"18"
+		"tall"	 									"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"border"    								"HealthBorder"
@@ -68,7 +68,7 @@
 		"ypos"										"3"
 		"zpos"										"5"
 		"wide"										"30"
-		"tall"	 									"18"
+		"tall"	 									"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"paintbackground"							"1"
@@ -76,7 +76,7 @@
 
 		"alpha"										"255"
 		
-		"pin_to_sibling" 							"HealthBG"
+		
 	}
 	
 	"HealthHurt"
@@ -87,7 +87,7 @@
 		"ypos"										"3"
 		"zpos"										"5"
 		"wide"										"30"
-		"tall"	 									"18"
+		"tall"	 									"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"paintbackground"							"1"
@@ -95,7 +95,7 @@
 		
 		"alpha"										"255"
 		
-		"pin_to_sibling" 							"HealthBG"
+	
 	}
 	
 	

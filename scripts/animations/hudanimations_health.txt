@@ -10,7 +10,10 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValueShadow 			FgColor 	"Health Buff Shadow"				Accel 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Buff Target" 				Linear 	0.0 	0.0
-		
+
+	Animate PlayerStatusHealthValueSpecgui 			FgColor 	"Health Buff Target" 				Linear 	0.0 	0.0
+	
+
 	Animate PlayerStatusHealthValueKiller 			FgColor 	"Health Buff Killer" 				Accel 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueShadowKiller		FgColor 	"Health Buff Shadow" 				Accel 	0.0 	0.0
@@ -37,7 +40,10 @@ event HudHealthBonusPulseStop
 	Animate PlayerStatusHealthValueShadow 			FgColor 	"Black" 							Accel 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Numbers" 					Linear 	0.0 	0.0
-		
+
+	Animate PlayerStatusHealthValueSpecgui 			FgColor 	"Health Numbers" 					Linear 	0.0 	0.0
+	
+
 	Animate PlayerStatusHealthValueKiller		 	FgColor 	"Health Numbers" 					Accel 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueShadowKiller 	FgColor 	"Black" 							Accel 	0.0 	0.0
@@ -58,6 +64,7 @@ event HudHealthDyingPulse
 	Animate PlayerStatusHealthValue 				FgColor 	"Health Hurt" 						Accel 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Hurt Target" 				Linear 	0.0 	0.0
+	Animate PlayerStatusHealthValueSpecgui 			FgColor 	"Health Hurt Target" 				Linear 	0.0 	0.0
 		
 	Animate PlayerStatusHealthValueKiller 			FgColor 	"Health Hurt Killer" 				Accel 	0.0 	0.0
 
@@ -82,7 +89,9 @@ event HudHealthDyingPulseStop
 	Animate PlayerStatusHealthValue		 			FgColor 	"Health Numbers" 					Accel 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Numbers" 					Accel 	0.0 	0.0
-		
+	Animate PlayerStatusHealthValueSpecgui 			FgColor 	"Health Numbers" 					Accel 	0.0 	0.0
+
+
 	Animate PlayerStatusHealthValueKiller 			FgColor 	"Health Numbers" 					Linear 	0.0 	0.0
 
 	Animate HealthBG							Alpha 		"255"								Linear 	0.0 	0.0
