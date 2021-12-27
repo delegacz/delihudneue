@@ -99,6 +99,17 @@ Scheme
 				"dropshadow" 								"1"
 			}
 		}
+		"m0refont15Outline"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicEF-NoThree"
+				"tall"										"15"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline" 									"1"
+			}
+		}
 		"m0refont14Outline"
 		{
 			"1"

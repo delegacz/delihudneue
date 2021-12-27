@@ -108,11 +108,11 @@
 	{	
 		"ControlName"		       					"Label"
 		"fieldName"		        					"TargetDataLabel"
-		"font"			           					"m0refont10"
+		"font"			           					"m0refont15Outline"
 		"fgcolor_override"     						"Health Hurt"
 		"TextColor"		               				"Health Hurt"
 		"xpos"			           					"40"
-		"ypos"			           					"3"
+		"ypos"			           					"2"
 		"zpos"			           					"1"
 		"wide"			           					"300"
 		"tall"			           					"20"
@@ -130,7 +130,7 @@
 	{
 		"ControlName" 								"CExLabel"
 		"fieldName" 								"TargetDataLbel2"
-		"font" 										"m0refont12Outline"
+		"font" 										"m0refont15Outline"
 		"fgcolor" 									"Health Hurt"
 		"xpos"			           					"0"
 		"ypos"			           					"0"
