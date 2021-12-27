@@ -37,7 +37,7 @@
 		"avatar_width"								"63"
 		"spacer"									"5"
 		"name_width"								"57"
-		"horiz_inset"								"2"
+		"horiz_inset"								"8"
 		
 		"playerpanels_kv"
 		{

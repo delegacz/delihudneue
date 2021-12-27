@@ -56,7 +56,11 @@ Scheme
 		"Blue"												"93 176 254 255"
 		"Green"												"75 210 75 255"
 		"Health BG"											"47 47 47 255"
-		"Spec BG"											"47 47 47 190"
+		"Spec BG"											"47 47 47 255"
+		"Black BG 80"										"0 0 0 210"
+		"Spec BG 75"										"47 47 47 190"
+		"Spec BG 50"										"47 47 47 125"
+		"Spec BG 25"										"47 47 47 65"
 		"Spec Blue BG" 										"48	56 64 255"
 		"Spec Red BG"										"64 52 52 255"
 

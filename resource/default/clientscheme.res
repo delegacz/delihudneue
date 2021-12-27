@@ -3329,7 +3329,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"BlackLight"
+			"color"					"Black BG 80"
 			
 			"image"					"replay/thumbnails/panels/bg_generic"
 			"src_corner_height"		"23"

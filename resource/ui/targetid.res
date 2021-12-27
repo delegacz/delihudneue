@@ -56,7 +56,7 @@
 		"tall"                   					"14"
 		"visible"                					"1"
 		"enabled"                					"1"
-		"fillcolor"              					"0 0 0 140"
+		"fillcolor"              					"0 0 0 220"
 	}
 	"TargetTeamColorBar"
 	{
