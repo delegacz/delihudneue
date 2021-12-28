@@ -78,7 +78,7 @@
 		"visible"	          	  					"1"
 		"enabled"	          	  					"1"
 		
-		"image"		          	  					"../HUD/tournament_panel_blu"
+		"image"		          	  					"replay/thumbnails/panels/material_blue"
 		"src_corner_height"	    					"15"
 		"src_corner_width"	    					"15"
 		"draw_corner_width"	    					"0"	
@@ -103,7 +103,7 @@
 		"visible"	          	  					"1"
 		"enabled"		           					"1"
 		
-		"image"		             					"../HUD/tournament_panel_red"
+		"image"		             					"replay/thumbnails/panels/material_red"
 		"src_corner_height" 	  					"15"
 		"src_corner_width"  	  					"15"
 		"draw_corner_width" 	  					"0"	
