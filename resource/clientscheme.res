@@ -14,10 +14,14 @@
 #base "../scripts/crosshairs/font/crosshairs.res"
 
 //========================================
+// BORDERS SCHEME
+//========================================
+#base "../resource/borders.res"
+//========================================
 // DEFAULT SCHEME
 //========================================
 #base "../resource/default/clientscheme.res"
-#base "../resource/borders.res"
+
 
 
 

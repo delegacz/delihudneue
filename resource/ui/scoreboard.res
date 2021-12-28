@@ -580,7 +580,7 @@
 		"font"			"m0refont12"
 		"labelText"		"%mapname%"
 		"textAlignment"		"center"
-		"xpos"			"c185"
+		"xpos"			"c179"
 		"ypos"			"r58"
 		"zpos"			"3"
 		"wide"			"200"
@@ -590,7 +590,7 @@
 		"wide_minmode"	"f0"
 		"tall_minmode"	"15"
 		"textAlignment_minmode"	"east"
-		"textAlignment"	"west"
+		"textAlignment"	"east"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -929,6 +929,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
 		"xpos"			"-20"
+		"xpos_minmode"			"5"
 		"ypos"			"200"
 		"zpos"			"80"
 		"wide"			"f0"
@@ -1704,14 +1705,13 @@
 	{
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
-		"xpos"				"c-300"
-		"ypos"				"-8"
+		"xpos"				"0"
+		"ypos"				"5"
 		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
 		"enabled"			"1"
-		
 		"verbose"			"1"
 		
 		if_mvm

@@ -6,7 +6,7 @@
 	
 	"Version"
 	{
-		"label" 									"delihud" 
+		"label" 									"delihud neue" 
 		"command" 									"engine showconsole; echo delihud reborn by bLa | built from m0rehud by Hypnotize | all credits to m0re & deli"
 		"OnlyAtMenu"								"1"
 	}

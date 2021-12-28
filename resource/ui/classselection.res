@@ -14,7 +14,29 @@
 		"enabled"									"1"
 		"tabPosition"								"0"
 	}
+	"ClassSelectionBackground" 
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ClassSelectionBackground"
+		"xpos"			"c-1"
+		"ypos"			"c-90"
+	    "zpos"        	"1"
+		"wide"			"100"
+		"tall"			"180"
+		"visible"		"1"
+		"zpos"			"21"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"border"		"TFThinLineBorder"
+		"src_corner_height"		"24"
+		"src_corner_width"		"24"
+		"draw_corner_width"		"8"
+		"draw_corner_height"	"8"
+
 	
+	}
 	"ClassesAnchor"									//THIS MOVES ALL THE CLASSES AT ONCE!
 	{
 		"ControlName"								"EditablePanel"
