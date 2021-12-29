@@ -38,8 +38,8 @@ Scheme
 		"Menu Labels"										"0 255 127 255"
 		"Class Selection"									"0 255 127 255"
 		
-		"M0reBlue"											"0 120 201 255"
-		"M0reRed"											"235 58 58 255"
+		"M0reBlue"											"93 176 254 255"
+		"M0reRed"											"247 61 64 255"
 		
 		"TanLight"											"255 255 255 255"
 		
