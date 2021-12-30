@@ -39,8 +39,8 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthImage"
-		"xpos"										"42"
-		"ypos"										"48"
+		"xpos"										"36" //42
+		"ypos"										"47" //48
 		"zpos"										"4"
 		"wide"										"36"		// use 37 if 1600x900
 		"tall"										"36"		// use 37 if 1600x900
@@ -56,7 +56,7 @@
 		"xpos"										"-11"
 		"ypos"										"2"
 		"zpos"										"0"
-		"wide"										"14"
+		"wide"										"15" //14
 		"tall"										"40"	
 		"visible"									"1"
 		"enabled"									"1"
@@ -75,7 +75,7 @@
 		"ypos"										"-11"
 		"zpos"										"3"
 		"wide"										"40"
-		"tall"										"14"	
+		"tall"										"15" //14
 		"visible"									"1"
 		"enabled"									"1"
 		"image"										"replay/thumbnails/panels/bg_black"
@@ -90,7 +90,7 @@
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
 		"xpos"										"80"
-		"ypos"										"36"
+		"ypos"										"36" //36
 		"zpos"										"-4"
 		"wide"										"56"
 		"tall"										"56"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayerStatusHealthValue"
-		"xpos"										"33"
+		"xpos"										"33" //1440P 33 1080P 40
 		"ypos"										"26"	
 		"zpos"										"5"
 		"wide"										"150"

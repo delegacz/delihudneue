@@ -21,7 +21,7 @@
 		"xpos"			"c-1"
 		"ypos"			"c-90"
 	    "zpos"        	"1"
-		"wide"			"100"
+		"wide"			"130"
 		"tall"			"180"
 		"visible"		"1"
 		"zpos"			"21"
