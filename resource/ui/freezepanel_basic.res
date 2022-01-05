@@ -21,7 +21,7 @@
 	
 		"FreezePanelBG"
 		{
-			"ControlName"							"CTFImagePanel"
+			"ControlName"							"ImagePanel"
 			"fieldName"								"FreezePanelBG"
 			"xpos"									"0"
 			"ypos"									"10"
@@ -30,12 +30,7 @@
 			"tall"									"16"
 			"visible"								"1"
 			"enabled"								"1"
-			"image"									"../hud/color_panel_blu"
-			"scaleImage"							"1"	
-			"src_corner_height"						"15"
-			"src_corner_width"	 					"15"
-			"draw_corner_width"	 					"0"	
-			"draw_corner_height" 					"0"
+			"fillcolor"              				"0 0 0 180"
 		}
 		
 		"FreezePanelBGWhite"
