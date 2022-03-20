@@ -5,7 +5,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"AmmoAnchor"
 		"xpos"										"c107"
-		"ypos"										"c91"
+		"ypos"										"c90"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"80"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClip"
-		"font"										"m0refont72"
+		"font"										"m0refont48Big"
 		"fgcolor"									"Ammo In Clip"
 		"xpos"										"0"
 		"ypos"										"0"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClipShadow"
-		"font"										"m0refont72"
+		"font"										"m0refont48Big"
 		"fgcolor"									"Black"
 		"xpos"										"-2"
 		"ypos"										"-2"
@@ -57,7 +57,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserve"
-		"font"										"m0refont24"
+		"font"										"m0refont24Big"
 		"fgcolor"									"Ammo In Reserve"
 		"xpos"										"1"
 		"ypos"										"17"
@@ -78,7 +78,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserveShadow"
-		"font"										"m0refont24"
+		"font"										"m0refont24Big"
 		"fgcolor"									"Black"
 		"xpos"										"-1"
 		"ypos"										"-1"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoNoClip"
-		"font"										"m0refont72"
+		"font"										"m0refont48Big"
 		"fgcolor"									"Ammo No Clip"
 		"xpos"										"0"
 		"ypos"    									"0"
@@ -118,7 +118,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoNoClipshadow"
-		"font"										"m0refont72"
+		"font"										"m0refont48Big"
 		"fgcolor"									"Black"
 		"xpos"										"-2"
 		"ypos"										"-2"

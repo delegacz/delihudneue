@@ -299,6 +299,56 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
+		"m0refont24Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont48Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"48"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont52Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"52"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont56Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"56"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont72Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"72"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
 		"m0refont72"
 		{
 			"1"
@@ -448,6 +498,11 @@ Scheme
 		{
 			"font"	"resource/fonts/m0rehud icons.ttf"
 			"name"	"m0rehud Icons V2"
+		}
+		"10"
+		{
+			"font"	"resource/fonts/AlternateGothicBig2.ttf"
+			"name"	"AlternateGothicBig"
 		}
 	}
 }
