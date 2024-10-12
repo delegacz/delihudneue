@@ -166,8 +166,8 @@
 		{	
 			"ControlName"							"CExLabel"
 			"fieldName"								"CapNumPlayers"
-			"font"									"Size 9"
-			"xpos"									"125"
+			"font"									"m0refont10"
+			"xpos"									"119"
 			"ypos"									"0"
 			"zpos"									"30"
 			"wide"									"20"
@@ -178,11 +178,10 @@
 			"visible"								"0"
 			"enabled"								"1"
 			"labelText"								"#ControlPointIconCappers"
-			"textAlignment"							"center"
+			"textAlignment"							"east"
 			"dulltext"								"0"
 			"brighttext"							"0"
 			"fgcolor"								"white"
-			"paintbackground"						"0"
 			"proportionaltoparent"					"1"
 			"use_proportional_insets"				"1"
 		}
