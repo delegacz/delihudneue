@@ -1615,7 +1615,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
-				"tall"		"14"
+				"tall"		"14" //14
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1627,7 +1627,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
-				"tall"		"20"
+				"tall"		"20" //20
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"

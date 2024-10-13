@@ -228,13 +228,13 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"BlueTeamLabel"
-		"font"				"m0refont14"
-		"font_minmode"		"default"
+		"font"				"m0refont12"
+		"font_minmode"		"m0refont12"
 		"fgcolor"   		"255 255 255 255"
 		"labelText"			"%blueteamname%"
 		"textAlignment"		"west"
 		"xpos_minmode"		"c-197"
-		"ypos_minmode"		"255"
+		"ypos_minmode"		"258"
 		"zpos"				"5"
 		"wide_minmode"		"40"
 		"tall_minmode"		"15"
@@ -335,8 +335,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"RedTeamLabel"
-		"font"				"m0refont14"
-		"font_minmode"		"default"
+		"font"				"m0refont12"
+		"font_minmode"		"m0refont12"
 		"fgcolor"   		"255 255 255 255"
 		"labelText"			"%redteamname%"
 		"textAlignment"		"west"
@@ -346,7 +346,7 @@
 		"wide"				"f0"
 		"tall"				"15"
 		"xpos_minmode"		"c-197"
-		"ypos_minmode"		"338"	[$WIN32]
+		"ypos_minmode"		"341"	[$WIN32]
 		"wide_minmode"		"40"
 		"tall_minmode"		"15"
 		"textAlignment_minmode"		"center"
