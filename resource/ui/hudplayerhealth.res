@@ -113,7 +113,7 @@
 		"enabled"									"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"	
-		"font"										"m0refont48Big"
+		"font"										"m0refont44Big"
 		"fgcolor"									"Health Numbers"
 	}
 	
@@ -130,7 +130,7 @@
 		"enabled"									"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"	
-		"font"										"m0refont48Big"
+		"font"										"m0refont44Big"
 		"fgcolor"									"0 0 0 255"
 		
 		"pin_to_sibling"							"PlayerStatusHealthValue"

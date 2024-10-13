@@ -309,6 +309,36 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
+		"m0refont36Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"36"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont42Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"42"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont44Big"
+		{
+			"1"
+			{
+				"name"										"AlternateGothicBig"
+				"tall"										"44"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
 		"m0refont48Big"
 		{
 			"1"
