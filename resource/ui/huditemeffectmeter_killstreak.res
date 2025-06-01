@@ -31,7 +31,7 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont18"
+		"font"										"m0refont16"
 		"fgcolor_override"      					"White"
 	}
 	
@@ -53,7 +53,7 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont18"
+		"font"										"m0refont16"
 		"fgcolor_override"      					"Black"
 		
 		"pin_to_sibling"							"ItemEffectMeterLabel"

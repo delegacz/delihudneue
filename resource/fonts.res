@@ -695,18 +695,18 @@ Scheme
 	
 	CustomFontFiles
 	{
-		"8"
+		"1"
 		{
 			"font"	"resource/fonts/AlternateGothic.ttf"
 			"name"	"AlternateGothicEF-NoThree"
 		}
 		
-		"9"
+		"2"
 		{
 			"font"	"resource/fonts/m0rehud icons.ttf"
 			"name"	"m0rehud Icons V2"
 		}
-		"10"
+		"3"
 		{
 			"font"	"resource/fonts/AlternateGothicBig2.ttf"
 			"name"	"AlternateGothicBig"
